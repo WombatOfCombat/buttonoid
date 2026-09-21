@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "frogus.nogus@gmail.com",
+                "Name": "recondite"
+            }
+        ],
+        "Category": "Utilities",
+        "Description": "A button creator user friendly miniwidget.",
+        "Icon": "applications-other",
+        "Id": "local.recondite.imagelauncher",
+        "Name": "Buttonoid",
+        "Version": "1"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet"
+}
